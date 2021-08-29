@@ -1,4 +1,4 @@
-<h1>Cryptozombies Bonus Task - Blockship
+<h1>Cryptozombies Bonus Task - Blockship </h1>
 
 Version of solidity used: pragma solidity 0.5.16<br>
 All smart contracts compiled into a truffle project.<br>
