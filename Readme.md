@@ -26,7 +26,7 @@ this simplifies the implementation of "user permissions".<br>
 <h3>Zombieattack Smart Contract </h3>
 <li>Imports from zombiehelper smart contract. <br>
 <li>attack function is callable by the owner. <br>
-<li>It creates two zombies and assigns them the ids repectively. <br>
+<li>It creates two zombies and assigns them the ids respectively. <br>
 <li>Calls the randMod funtion to create a hash which acts as the victory probability. <br>
 <li>Hash is compared with the preset value of 70 resulting in two different results through an if-else statement. <br>
 <li>if statement results in owner's zombie taking the win. A level and wincount is increased by one, whereas enemy loss count is inremented by one. feedandMultiply function is then triggered. <br>
